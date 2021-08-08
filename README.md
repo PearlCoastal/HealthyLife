@@ -8,3 +8,8 @@
 程序员必备小百科👇
 
 [脱发篇](https://github.com/PearlCoastal/HealthyLife/blob/master/%E8%84%B1%E5%8F%91.md)
+
+第二篇✌️
+====
+
+[压力型肥胖]()
