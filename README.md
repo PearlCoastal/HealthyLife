@@ -17,4 +17,4 @@
 第三篇 3⃣️
 ====
 
-[吸引力法则]()
+[吸引力法则](https://github.com/PearlCoastal/HealthyLife/blob/master/xiyinli.md)
