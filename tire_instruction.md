@@ -19,7 +19,7 @@
 | 凹槽的深度| 很深 | 很浅| 冬胎为了防止打滑， 凹槽很深。<img width="392" alt="截屏0003-10-24 14 43 12" src="https://user-images.githubusercontent.com/10908630/138582425-a4ffac44-2aea-48c5-85a7-794fe611cee4.png">|
 | 刀槽花纹 | 很多 | 很少 | 刀槽花纹： 又浅又细的切口， 可以咬住结冰的道路和雪。![volkswagen-tiguan-drives-on-lapland-forest-road-royalty-free-image-1602585888](https://user-images.githubusercontent.com/10908630/138582162-2349d85d-387e-4e70-ba42-875705147785.jpeg)|
 | 软硬程度| 低温时也保持很软 | 低温时轮子很硬 | 低温状态下轮子需要保持柔软以维持抓地性|
-| STUDLESS 标志 | 有 |  无| ![image]<img width="497" alt="截屏0003-10-24 14 33 16" src="https://user-images.githubusercontent.com/10908630/138582210-5bec9194-a0e5-48fc-b314-d9e203cbb6f7.png">|
+| STUDLESS 标志 | 有 |  无| <img width="497" alt="截屏0003-10-24 14 33 16" src="https://user-images.githubusercontent.com/10908630/138582210-5bec9194-a0e5-48fc-b314-d9e203cbb6f7.png">|
 
 ## 冬胎的优点
 
