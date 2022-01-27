@@ -20,3 +20,10 @@
 每天一个小习惯， 成为一个不一样的自己 👇
 
 [吸引力法则](https://github.com/PearlCoastal/HealthyLife/blob/master/xiyinli.md)
+
+第四篇
+====
+
+医院体检套餐怎么选 👇
+
+[体检指南](https://github.com/PearlCoastal/HealthyLife/tree/master#:~:text=5%20months%20ago-,physical_checkup.md,-Create%20physical_checkup.md)
